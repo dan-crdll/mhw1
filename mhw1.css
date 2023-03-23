@@ -30,7 +30,6 @@ nav {
 
 nav a {
     text-align: center;
-    width: 15%;
     border: 3px dotted var(--light_color);
     padding: 8px 15px;
     border-radius: 45px;
